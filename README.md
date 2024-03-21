@@ -1,3 +1,3 @@
 # Rubix Cube Site
 
-Testing cloud deploy
+Testing cloud deploy.
